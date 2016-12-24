@@ -5,7 +5,7 @@
 
 
 ```bash
-chmod u+x t7meel.sh
-./t7meel.sh
+chmod u+x tanzeel.sh
+./tanzeel.sh
 ```
 تهانينا لقد نزلت كل الملفات المضغوطة الموجودة في الموقع
